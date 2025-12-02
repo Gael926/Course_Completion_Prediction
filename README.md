@@ -37,6 +37,7 @@ Les colonnes suivantes ont été retirées car elles ne sont pas pertinentes pou
 * `Student_ID`
 * `Name`
 * `City`
+* `Enrollment_Date`
 * `Course_Name`
 * `Category` (Redondant car filtré sur "Programming")
 
